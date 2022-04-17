@@ -1,0 +1,8 @@
+{
+    "Lua.diagnostics.globals": [
+        "ProtoField",
+        "base",
+        "ByteArray",
+        "UInt64"
+    ]
+}

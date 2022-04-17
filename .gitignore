@@ -1,0 +1,4 @@
+*.pcap
+*.pcapng
+*.pcapng.gz
+*.luac
